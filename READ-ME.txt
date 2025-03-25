@@ -1,11 +1,11 @@
   =>  Template Name    : Zahrat albustan  - Real Estate 
 
-  =>  Template Link    : https://htmlcodex.com/real-estate-html-template-free
+  =>  Template Link    : https://www.xyvin.com/real-estate-html-template-free
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : https://www.xyvin.com/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  : Xyvin Tech
 
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : https://www.xyvin.com
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free s, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+  =>  About Xyvin Tech : Xyvin Tech is one of the top creators and publishers of Free s, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://www.xyvin.com/about-us )
